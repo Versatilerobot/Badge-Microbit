@@ -18,3 +18,5 @@ Dans ce dossier vous trouverez toutes les informations pour le construire et le 
 -	Un exemple de code en microPython Mu https://codewith.mu/
 -	Une liste du matériel et une suggestion de liens pour se le procurer <br />
   Nota: La recharge de la batterie doit être réalisée à part.
+
+Une démo au lien suivant: https://youtu.be/-zeMkWJXh7k
