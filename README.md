@@ -10,7 +10,8 @@ https://www.facebook.com/AssoCaliban;
 -	« Cœur » qui bat avec bruitage (appuie sur Bouton poussoir « B »)<br />
 
 La mélodie ou le bruitage peuvent êtres désactivés pour chaque animation par un appuie sur l’autre bouton (Ex : Appuie sur « B » si animation encours est « Smile », ou Appuie sur « A » si animation encours est « Coeur ») <br />
-La carte peut être mise en mode d'économie d'énergie en maintenant enfoncée le bouton de Reset au dos. Lorsque la LED d'alimentation s'éteint, relâchez le bouton pour mettre votre micro:bit en mode d'économie d'énergie. Un appuie court sur le même bouton redémarre la carte. <br />
+La carte peut être mise en mode d'économie d'énergie en maintenant enfoncée le bouton de Reset au dos. Lorsque la LED d'alimentation s'éteint, relâchez le bouton pour mettre votre micro:bit en mode d'économie d'énergie. <br />
+Un appuie court sur le même bouton redémarre la carte. <br />
 
 Dans ce dossier vous trouverez toutes les informations pour le construire et le programmer :<br />
 -	Les fichiers STL pour l’impression
