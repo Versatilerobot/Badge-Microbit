@@ -14,7 +14,7 @@ La carte peut être mise en mode d'économie d'énergie en maintenant enfoncée 
 Un appuie court sur le même bouton redémarre la carte. <br />
 
 Dans ce dossier vous trouverez toutes les informations pour le construire et le programmer :<br />
--	Les fichiers STL pour l’impression
+-	Les fichiers STL pour l’impression avec un remplissage à 30% sans supports
 -	Un exemple de code en microPython Mu https://codewith.mu/
 -	Une liste du matériel et une suggestion de liens pour se le procurer <br />
   Nota: La recharge de la batterie doit être réalisée à part.
