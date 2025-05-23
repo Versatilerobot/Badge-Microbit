@@ -1,5 +1,7 @@
 # Badge-Microbit
 
+img/Badge_Microbit.jpg
+
 Ce badge animé en forme de tête de robot stylisée est prévu pour être porté avec une longue de tour de cou. Il supporte une carte Micro:bit BBC V2.21 et une batterie rechargeable Lipo 250mAh 3,7V. 
 Les animations sont les suivantes : <br />
 -	« Scrolling du nom CALIBAN» Association Française de robotique amateur <br />
