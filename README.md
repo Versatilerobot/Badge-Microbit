@@ -19,4 +19,5 @@ Dans ce dossier vous trouverez toutes les informations pour le construire et le 
 -	Une liste du matériel et une suggestion de liens pour se le procurer <br />
   Nota: La recharge de la batterie doit être réalisée à part.
 
-Une démo au lien suivant: https://youtu.be/-zeMkWJXh7k
+Une démo au lien suivant: https://youtu.be/-zeMkWJXh7k <br />
+Une vidéo de l'assemblage: https://youtu.be/kdMkO-jAXIA?feature=shared
