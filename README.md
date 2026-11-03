@@ -13,11 +13,13 @@ La mélodie ou le bruitage peuvent êtres désactivés pour chaque animation par
 La carte peut être mise en mode d'économie d'énergie en maintenant enfoncée le bouton de Reset au dos. Lorsque la LED d'alimentation s'éteint, relâchez le bouton pour mettre votre micro:bit en mode d'économie d'énergie. <br />
 Un appuie court sur le même bouton redémarre la carte. <br />
 
-Dans ce dossier vous trouverez toutes les informations pour le construire et le programmer :<br />
--	Les fichiers STL pour l’impression avec un remplissage à 30% sans supports
--	Un exemple de code en microPython Mu https://codewith.mu/
--	Une liste du matériel et une suggestion de liens pour se le procurer <br />
-  Nota: La recharge de la batterie doit être réalisée à part.
+Dans ce dossier vous trouverez toutes les informations pour le construire et le programmer :
+-	Les fichiers STL pour l’impression
+-	Une liste du matériel et une suggestion de liens pour se le procurer
+-	Un fichier de programmation « caliban.hex» prêt à être téléchargé dans la carte Micro:bit. Pour cela vous devez raccorder la carte à votre PC par un câble USB, puis copier/coller le fichier dans le répertoire de la carte Micro:bit qui apparait dans l’arborescence de votre ordinateur. Le chargement commence automatiquement.
+-	Le code Python pouvant être modifié avec l’éditeur:  https://python.microbit.org/?l=fr
+
+La recharge de la batterie doit être réalisée à part, avec un chargeur Lipo 1s tel que celui référencé dans le fichier de liste du matériel « BOM Microbit holder »
 
 Une démo au lien suivant: https://youtu.be/-zeMkWJXh7k <br />
 Une vidéo de l'assemblage: https://youtu.be/kdMkO-jAXIA
